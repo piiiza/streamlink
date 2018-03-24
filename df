@@ -1,0 +1,1 @@
+streamlink --hls-live-edge 99999 --hls-segment-threads 5 -o "[FILE NAME].ts" https://www.youtube.com/watch?v=YvuvekaLdUI best
